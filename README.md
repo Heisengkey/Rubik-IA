@@ -2,4 +2,8 @@
 
 ---
 
+Busqueda de soluciones para el cubo de Rubik usando busquedas en profundidad, A* y Templado Simulado.
+
+---
+
 ### Viegas (ff_)
